@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-1.  [Introduction](https://www.google.com/search?q=%231-introduction)
-2.  [Dataset](https://www.google.com/search?q=%232-dataset)
-3.  [Problem Formulation](https://www.google.com/search?q=%233-problem-formulation)
+1.  [Introduction](#Introduction)
+2.  [Dataset](#Dataset)
+3.  [Problem Formulation](#problem-formulation)
 4.  [Key Features](https://www.google.com/search?q=%234-key-features)
 5.  [Machine Learning Approach](https://www.google.com/search?q=%235-machine-learning-approach)
 6.  [Project Process](https://www.google.com/search?q=%236-project-process)
